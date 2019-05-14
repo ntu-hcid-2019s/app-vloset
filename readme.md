@@ -1,1 +1,1 @@
-# HTML template for ichi-2019s
+# HTML template for ihci-2019s
